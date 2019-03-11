@@ -1,0 +1,13 @@
+---
+attributes:
+  bc_vnc_idle: 0
+  bc_vnc_resolution: "1152x720"
+  node_type: null
+cluster: "example"
+form:
+  - bc_account
+  - bc_queue
+  - bc_num_hours
+  - bc_num_slots
+  - bc_email_on_started
+  - bc_vnc_idle
